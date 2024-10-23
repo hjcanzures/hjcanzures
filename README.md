@@ -2,11 +2,12 @@
 
 
 
-🔭 I’m currently learning about data analysts.<br>
+🔭 Figuring things out. <br>
+💭 I’m currently learning about data analytics. <br>
 
 #  📚 Education
 
-🤓 Currently studying IT at the New Era University, Philippines <br>
+🤓 Currently studying IT at the New Era University, Philippines  <br>
 
 
 
