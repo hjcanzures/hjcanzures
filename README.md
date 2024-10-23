@@ -3,7 +3,7 @@
 
 
 🔭 Figuring things out <br>
-💭 I’m currently learning about data analytics <br>
+💭 Currently learning about data analytics <br>
 <!-- bruh -->
 #  📚 Education
 🤓 Currently studying IT at New Era University, Philippines  <br>
