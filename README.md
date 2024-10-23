@@ -2,8 +2,8 @@
 
 
 
-🔭 Figuring things out. <br>
-💭 I’m currently learning about data analytics. <br>
+🔭 Figuring things out <br>
+💭 I’m currently learning about data analytics <br>
 
 #  📚 Education
 
