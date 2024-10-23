@@ -7,7 +7,6 @@
 
 <h2>Certificates</h2>
 <h3> <a href = https://courses.cognitiveclass.ai/certificates/0b8d0801fc854aa0bd016f2dd3514605#> SQL and Relational Database 101 </a></h3>  
-<h3>    <a href = https://github.com/Jedhanz/Jedhanz/blob/main/IBM%20Certificate%20-%20hjcanzures.pdf> </a>SQL and Relational Database 101</h3>  
     
 <!--
 **Jedhanz/Jedhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
