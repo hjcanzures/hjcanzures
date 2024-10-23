@@ -4,19 +4,16 @@
 
 🔭 Figuring things out <br>
 💭 I’m currently learning about data analytics <br>
-
+<!-- bruh -->
 #  📚 Education
-
-🤓 Currently studying IT at the New Era University, Philippines  <br>
-
-
-
+🤓 Currently studying IT at New Era University, Philippines  <br>
 
 <h1> 📜 Certificates</h1>
 <h3> <a href = https://courses.cognitiveclass.ai/certificates/0b8d0801fc854aa0bd016f2dd3514605#> SQL and Relational Database 101 </a></h3> 
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
 
 
