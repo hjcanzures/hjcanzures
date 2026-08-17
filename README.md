@@ -18,6 +18,8 @@
 
 <h3> <a href = https://catalog-education.oracle.com/ords/certview/sharebadge?id=0EF0211D4CFD064973438D9B4138C8234F99B132F12A4AF65DED4BAD0AF116B9&fbclid=IwY2xjawHMhxRleHRuA2FlbQIxMQABHTOY8MX2Ho4NCFvIzpKVLVhW4DJF0JAEpLh1SZc4YY5uECz4Qmv9Ox7YfA_aem_p0LhbzOl2cFv-PfgVNV70Q> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a></h3>   
 
+<h3> <a href = https://www.datacamp.com/completed/statement-of-accomplishment/course/121661cd61138b6af42fed5e49c15f1f7dd9d5d3> Introduction to Python<a/></a>h3>
+
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
