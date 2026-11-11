@@ -20,7 +20,7 @@
 
 <h3> <a href = https://www.datacamp.com/completed/statement-of-accomplishment/course/121661cd61138b6af42fed5e49c15f1f7dd9d5d3> Introduction to Python <a/></h3>
 <h3> <a href = https://www.datacamp.com/completed/statement-of-accomplishment/course/992bb97d23a1e4c4ae1b680e851f6ce3b3203c88> Intermediate Python <a/></h3>
-<h3> <a href = https://www.datacamp.com/skill-verification/AIF0020936393819> AI Fundamentals </a></h3>
+<h3> <a href = https://www.datacamp.com/skill-verification/AIF0020936393819> Data Camp - Certified AI Fundamentals </a></h3>
   
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
